@@ -6,7 +6,7 @@ public class LoopingStatements {
 		// TODO Auto-generated method stub
 
 		for(int Tea=0; Tea<10; Tea+=2 ) {
-			System.out.println("Daily Tea drinking 10times");
+			System.out.println("Daily Tea drinking 10times and Verify the body condition");
 		}
 		
 		int Coffee=0;
