@@ -11,7 +11,7 @@ public class LoopingStatements {
 		
 		int Coffee=0;
 		while(Coffee<10) {
-			System.out.println("Daily Coffee drinking 10times");
+			System.out.println("Daily Coffee drinking 10times and check the health condition");
 			Coffee++;
 		}
 		
